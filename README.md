@@ -33,4 +33,4 @@ Este proyecto no requiere instalación de dependencias externas. Solo necesitas 
 Este proyecto está bajo la licencia MIT. Puedes modificarlo y distribuirlo libremente.
 
 ## Autor
-Juan Manuel
+Juan Manuel López Esparrell.
